@@ -9,9 +9,11 @@ import SwiftUI
 
 @main
 struct ios_lab_phoneApp: App {
+    @StateObject var controller = StartController()
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            StartScreen()
+                .environmentObject(controller)
         }
     }
 }

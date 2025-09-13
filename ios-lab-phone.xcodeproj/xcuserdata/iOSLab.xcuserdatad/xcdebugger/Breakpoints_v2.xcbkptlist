@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FB382F56-DF00-42FF-8949-200166F8B3B0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DE3D571-1039-4445-A994-3DE8AB4E5247"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-lab-phone/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9417435-7419-427F-AA8A-5F3D7138AAD8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-lab-phone/09setembro/dia13/presentation/StartController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4"
+            endingLineNumber = "4"
+            landmarkName = "StartController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F9417435-7419-427F-AA8A-5F3D7138AAD8 - 64c45c426743114e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of ios_lab_phone.StartController.num : Swift.Int"
+                  moduleName = "ios-lab-phone.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iOSLab/Desktop/iOS-lab-phone/ios-lab-phone/09setembro/dia13/presentation/StartController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "F9417435-7419-427F-AA8A-5F3D7138AAD8 - 394ee8f151cb2560"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_lab_phone.StartController.num.getter : Swift.Int"
+                  moduleName = "ios-lab-phone.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iOSLab/Desktop/iOS-lab-phone/ios-lab-phone/09setembro/dia13/presentation/StartController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "F9417435-7419-427F-AA8A-5F3D7138AAD8 - 562c120208a81710"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_lab_phone.StartController.num.setter : Swift.Int"
+                  moduleName = "ios-lab-phone.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iOSLab/Desktop/iOS-lab-phone/ios-lab-phone/09setembro/dia13/presentation/StartController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4"
+                  endingLineNumber = "4">
+               </Location>
+               <Location
+                  uuid = "F9417435-7419-427F-AA8A-5F3D7138AAD8 - ea34e186029e07e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_lab_phone.StartController.num.modify : Swift.Int"
+                  moduleName = "ios-lab-phone.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iOSLab/Desktop/iOS-lab-phone/ios-lab-phone/09setembro/dia13/presentation/StartController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4"
+                  endingLineNumber = "4">
+               </Location>
+               <Location
+                  uuid = "F9417435-7419-427F-AA8A-5F3D7138AAD8 - 45661b017c25319b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_lab_phone.StartController.num.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ios-lab-phone.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "F9417435-7419-427F-AA8A-5F3D7138AAD8 - c503fc1c20413cbd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_lab_phone.StartController.$num.getter : Combine.Published&lt;Swift.Int&gt;.Publisher"
+                  moduleName = "ios-lab-phone.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iOSLab/Desktop/iOS-lab-phone/ios-lab-phone/09setembro/dia13/presentation/StartController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "F9417435-7419-427F-AA8A-5F3D7138AAD8 - 7e0e07b440bbc535"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_lab_phone.StartController.$num.setter : Combine.Published&lt;Swift.Int&gt;.Publisher"
+                  moduleName = "ios-lab-phone.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iOSLab/Desktop/iOS-lab-phone/ios-lab-phone/09setembro/dia13/presentation/StartController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4"
+                  endingLineNumber = "4">
+               </Location>
+               <Location
+                  uuid = "F9417435-7419-427F-AA8A-5F3D7138AAD8 - 15f22c475382a704"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_lab_phone.StartController.$num.modify : Combine.Published&lt;Swift.Int&gt;.Publisher"
+                  moduleName = "ios-lab-phone.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iOSLab/Desktop/iOS-lab-phone/ios-lab-phone/09setembro/dia13/presentation/StartController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4"
+                  endingLineNumber = "4">
+               </Location>
+               <Location
+                  uuid = "F9417435-7419-427F-AA8A-5F3D7138AAD8 - 34e61281fcfaabed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_lab_phone.StartController.$num.modify : Combine.Published&lt;Swift.Int&gt;.Publisher with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ios-lab-phone.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
